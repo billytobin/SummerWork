@@ -1,0 +1,21 @@
+notes 7/15/21
+
+one thing we can add is
+
+take the progression and we see how the num is changing
+
+at a certain commit number, keep the source code
+
+all we need is commit number
+
+so put the commit number/identifying info inn the JSON
+
+just the url and github ID and keep hash in JSON
+
+within python there is a nice graph and chart library matplotlib
+
+make those charts and plots
+
+look into methods added into overloaded methods list and methods lost
+
+try to make my script as configurable as possible

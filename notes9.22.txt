@@ -1,0 +1,34 @@
+formalize and configurize the code for a github repositry\
+
+so first focus on answering research questions that we can answer with current data.
+
+when i start working on posters, write down all of research questions that we want to ask
+
+like maybe is there a correlation between overloaded methods and contributors
+
+might be a good way to organize the poster
+
+put a link to the github
+
+what might be cool is create a qr code to go to github
+
+the story that I want to use to sell the idea
+
+very high level comment is presenting whta overloaded methods are, the challenges that come with it, and then talk about the questions
+
+then go into the questions one by one
+
+question-hypothesis-results for each question
+
+try to generalize 50-100 results to make graphs and conclusions
+
+aggragated grpahs accross multiple projects
+
+for each question we should have a graph to represent what we learn
+
+most of summer was building this framework/infrastructure
+
+maybe try to show the pipeline of how I built this
+
+target 50 or so repositories
+

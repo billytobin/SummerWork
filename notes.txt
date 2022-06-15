@@ -1,0 +1,5 @@
+we parse left then parse right then make expression
+
+switch left and right order
+
+i have to implement julia set

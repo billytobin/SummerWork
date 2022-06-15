@@ -1,0 +1,5 @@
+ways of measuring overall change of percentage of overall methods
+
+do something with derivatives or average slope
+
+subtract endpoints

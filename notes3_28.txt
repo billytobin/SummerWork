@@ -1,0 +1,52 @@
+within python, create a very neat way of organizing data with mothods, classes, method signatures
+
+	make a class sytem
+high lever object is a pcakage,
+within object have a class,
+ then in that have all the methods
+
+^^nvm?
+
+go into runner.java and the result onject is important
+
+i can just use reult object that inputes the result object and gather everything
+
+and write tests to use conditionals to look for a per method basis and comparing if over loaded methods
+
+creat a diff java project and manually do this analysis maybe
+
+is there a way to we can pickle this results object and pass them independently and takes an input as a result porject
+
+billys implementation of analysis will use this library and return an object
+
+line 38 is where csv files are made
+
+so i would copy taht runner in another file and we would not write into the file but into straight analysis
+
+for the output just  first ouptut number of overloaded methods per class
+
+if i want to do more systemic testing i can use junit
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\topRepos\RxJava False 0 False
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\topRepos\RxJava False 0 False 100
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\repeatRepos\RxJava False 0 False
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\topRepos\elasticsearch False 0 False
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\topRepos\LeetCodeAnimation False 0 False
+
+java -jar ck-0.6.5-SNAPSHOT-jar-with-dependencies.jar C:\Users\willi\Summer-Work21\TestsQuestionMark\topRepos\overloadedMethods-master False 0 False
+
+mvn clean compile assembly:single
+
+
+
+organize data within python
+
+how often do people overload methods
+
+are those overlaoding methods creating issues
+
+go through commits and see if overloaded methods were removed

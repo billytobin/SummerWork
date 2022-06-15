@@ -1,0 +1,37 @@
+conference in late january and early febraury
+
+mining software repos .... MSR - January 20th
+
+missing a narrative of paper
+
+how do combine our different insights to create a story
+
+what do we want to sell
+
+make 5-6 research questions that we have the data to answer
+
+-how prevelent
+-do people use it
+-what is perceptoin among devs
+
+try ot write paper first and then come back and maybe do user study etc.
+
+manual analysis of projects .. github issues .. see if issues correlate to overloadness
+
+8 pages
+
+for me:
+
+congregate all of the analysis in a google folder with caption and clear explanation of each
+
+*** consolodited doc of all of our results
+
+*** research questions
+
+*** students usually focus on methodology and litle bit of results
+
+options: 10 page full paper  or 4 page short paper
+
+*** make snalysis ready for github
+
+*** first do consolidation of results

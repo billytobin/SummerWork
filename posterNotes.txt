@@ -1,0 +1,47 @@
+Lighter Background, darker text
+
+less text, focus on punchline
+
+for each grpah, just try to have to point you are tyring to display
+
+in introduction, break it down into bullet points
+	make it easier to read for non-comp sci people maybe
+
+small code snippet that provides example of overloaded method and a little bit of an explanation
+
+look at overloaded methods in repos then use those as an example and be like hey these are mission critical and we need to know when to use the right one
+
+then in intro start introducin issues with 
+
+justifying the text
+
+figure 1 and figure 2
+
+boxes below need to have a little explanation
+
+alot of the stuff i have i can use bullet points for
+
+having 4 graphs showing 4 different trends
+
+maybe another one is as lines of code increases do overloaded methods also inncrease
+
+flow diagram that visualizes the pipeline that analyzes
+
+if you have flow diagram that will fill up spacew
+
+havehaving a bullet that references that diagram in the method seciton
+
+rename method section to Methodology
+
+aggregated graphs is better
+
+we do not need to add more graphs for now
+
+big things:
+
+regorganize text in bullet 
+
+withing string impenetaion of java, there is a substring method that is overloaded
+use this as example
+
+flow diagram

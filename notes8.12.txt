@@ -1,0 +1,30 @@
+start in a simple metric
+
+the simplest metrics
+	loc
+
+normalize things across projects
+
+we should start for the most simplest thing
+
+per commit thing calculate num of overloaded methods and then the size of project
+
+we always write this section on validity of study
+
+why outcomes that we have inferred might be incorrect
+
+correlation between num of overloaded methods and lines of code
+
+the repo may be growing but we wont see change of percentages
+
+we can focus on making a very brief report or presentation
+
+create a story with the presentation
+
+generalize the results of the survey
+
+expand the breadth of the study
+
+start creating scripts that are automatic that we can put on the cluster
+
+have an outline of the poster and make the scaffolding for the script that we would send to the cluster.

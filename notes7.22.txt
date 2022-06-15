@@ -1,0 +1,43 @@
+notes 7.22
+
+python analyzeManyVersions.py 6
+
+python cloneToDelta.py 14
+
+focus on having fine grained
+
+rn we have 4 points
+
+make it so i can input the num of points as a configurable thing on pipelin/cmd
+
+use a delta to be a graph
+
+second:
+
+we have to look at size of repo?
+
+comparing two points in time
+
+if we say that num of overloaded metthods increased, we might say its because the developers wanted to do it like that, or it is becuase the code in general has increased
+
+size of repo matters
+
+we may end up seeing some negatives
+
+even if we dont it would still be good to see it
+
+for the future another indicator is the number of classes/methods/etc implemented
+
+if repo doesnt change but methods go down, that would be a good thing
+
+relation of growth vs delta
+
+the java prgm should output data
+
+do the delta comparison of the
+
+there are many ways to do the delta in python
+
+if we have an array of these json
+
+at each instance of the anlaysis carry on the delta.

@@ -1,0 +1,45 @@
+10.6.21
+
+make documents about how ot run the graphs, how to run program, and what i did over the summer
+
+make 5-6 correlations
+
+look at past notes to re organize research questions in a table and we can think about it like what kind of correlations are we looking for
+
+now we need to focus on hypothesis we have
+
+we are going to have individual research questions that we will inverstigate with data we have
+
+resrarch conf that gulzar set up
+
+the way that it should work is that i have to build a pipeline of all the programs, end-to-end
+
+build paper with 50 projects, then eventually work our way up to the 1000
+
+on my end, make a pipeline that takes in a list of projects, and outputs 10 graphs or csv files.
+
+make my pipeline, and then send to gulzar so his student replaces api with his thing
+
+if my tool is a python executable, then the executable could tak e a flag followed by a path to directory. ouptut data will.
+
+dont worry about other people using my tool, bcuz rn the goal is to have analysis ready, rn we need to make sure its extensible for th ecluster to run it
+
+make sure its aurmotated and configurable
+
+
+10/27/21
+
+instead of saying
+
+we can start at current at go back
+
+in a snapshot look at num of overloaded methods vs contributors
+
+taditionally people use loc, but lets use loc and then if we see awkward outcomes then we can see if it makes sense to do num of methods
+
+maybe start looking at specific method going out
+
+num of om added and num of overm deleted
+
+for future:?
+one thing may be methods with 1 characther difference

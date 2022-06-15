@@ -1,0 +1,11 @@
+ideas for research
+
+average delta change per like section
+
+average percent change per section
+
+most common method names that are chagneed, use a dictionary to keep track of times
+
+orijects with lots of contributors vs not alot of contributors, whats difference in overloaded usage
+
+as projects increase num of contributors do overloaded methods go down, is there some kind of constant that we can measure/ equaion
